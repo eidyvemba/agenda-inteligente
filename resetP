@@ -1,0 +1,4 @@
+rm bibliotecas/*.gch
+rm *.o
+rm executar
+clear

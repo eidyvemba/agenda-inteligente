@@ -1,0 +1,5 @@
+1- Abrir o terminal até ao caminho do directório
+2- Digitar "make" para compilar e executar
+3- Dar a permissão ao arquivo resetP 
+4- Recompilar: digitar ./resetP
+5- Digitar "make"
